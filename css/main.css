@@ -1,0 +1,14 @@
+
+
+body{
+	background-color: #F6F8F9;
+	font-family: 'Inknut Antiqua', serif;
+	max-width: 650px;
+	line-height: 1.8;
+	margin-left: 50px;
+	margin-top: 75px;	
+}
+
+a {
+	color: #E362E3;
+}
